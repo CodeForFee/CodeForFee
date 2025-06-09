@@ -1,134 +1,42 @@
-# 🎯 CodeForFee | Fullstack Architect
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=🚀+Fullstack+Web+Developer;⚡+MERN+Stack+Expert;🎨+Next.js+%26+NestJS+Specialist;🔥+Building+Scalable+Solutions" alt="Typing Animation" />
-</div>
-
-## 🌟 About Me
-
-```typescript
-const codeForFee = {
-  role: "Fullstack Web Developer",
-  location: "🌍 Global Remote",
-  technologies: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "NestJS", "RESTful APIs"],
-    database: ["MongoDB", "MySQL", "SQL Server"],
-    tools: ["Git", "GitLab", "Vercel", "Render", "Railway"]
-  },
-  currentFocus: "Building scalable web applications",
-  philosophy: "Clean code, optimal performance, seamless UX"
-};
-```
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nest,mongodb,mysql,sqlserver,tailwind,git,github,gitlab,vscode&perline=8" alt="Skills" />
-</div>
-
+<!-- Enhanced GitHub Profile README for CodeForFee -->
+<h1 align="center">Hi 👋, I'm <span style="color:
+#2bbc8a;">CodeForFee</span></h1>
+<h3 align="center">💻 Fullstack Web Developer | MERN • Next.js • NestJS 🚀</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nest,mongodb,mysql,html,css,git,github,vscode" alt="Tech Stack" />
+</p>
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=2BBC8A&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;MERN+Stack+Specialist;Next.js+%7C+NestJS+Enthusiast;Building+Scalable+Apps;Let%E2%80%99s+Code+Something+Amazing+in+2025!" alt="Typing SVG" />
+</p>
 
-## 🔥 Tech Arsenal
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🎨 Frontend Magic
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-### ⚡ Backend Power
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-### 🛠️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</td>
-</tr>
-</table>
-
+## 🏆 Featured Projects
+### 🔥 [Your Top Project](https://github.com/CodeForFee/your-top-project)
+🎯 A brief description of your top project showcasing innovation, architecture, or performance.
+### ⚡ [Another Cool Project](https://github.com/CodeForFee/another-cool-project)
+🧩 A unique solution for a real-world problem built with your tech stack.
+<!-- Replace these with real project links and summaries -->
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=CodeForFee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</td>
-<td>
-<img src="https://streak-stats.demolab.com?user=CodeForFee&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeForFee&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeForFee&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeForFee&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=CodeForFee&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeForFee&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 ---
-
-## 🎖️ Achievements & Certifications
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CodeForFee&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</div>
-
-<table align="center">
-<tr>
-<td align="center">🚀 <strong>Performance Optimizer</strong></td>
-<td align="center">🎯 <strong>Problem Solver</strong></td>
-<td align="center">✨ <strong>Code Beautifier</strong></td>
-</tr>
-</table>
-
+## 🌐 Let's Connect
+- 🌍 [LinkedIn](https://linkedin.com/in/your-link)
+- 💼 [Portfolio](https://your-website.com)
+- ✉️ Open to freelance, collaboration, and opportunities to build impactful products.
 ---
-
-## 💡 Current Focus
-
-```javascript
-// What I'm working on in 2025
-const currentGoals = {
-  learning: ["Next.js 15", "Server Components", "AI Integration"],
-  building: ["SaaS Platform", "Mobile App", "Open Source Tools"],
-  growing: ["Technical Writing", "Community Building", "Mentoring"],
-  exploring: ["Web3", "Blockchain", "AI/ML Integration"]
-};
-```
-
-### 💼 Open for Opportunities
-- 🤝 **Collaborations** - Open source contributions
-- 💡 **Consulting** - Architecture & performance optimization
-- 🎯 **Remote Work** - Full-time positions
-
----
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0" width="100%" />
-
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-
-### 💭 Developer Quote of the Day
-*"The best error message is the one that never shows up." - Thomas Fuchs*
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91324919/230763869-9964cb26-10a9-4a23-9b70-b60d8710f443.gif" width="250" alt="Coding Animation" />
+  <br />
+  💭 Developer Quote of the Day
+  <i>“Programming isn't about what you know; it's about what you can figure out.” – Chris Pine</i>
 <img src="https://komarev.com/ghpvc/?username=CodeForFee&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-
-**Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
-</div>
+</p>
