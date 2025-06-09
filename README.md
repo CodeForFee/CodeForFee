@@ -1,13 +1,5 @@
 # 🎯 CodeForFee | Fullstack Architect
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/W_I2beMZiVsAAAAd/bongo-cat-typing.gif" alt="Typing Animation" />
-</div>
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/q-QVEiDGm5YAAAAC/thebongocat-the-bongo-cat.gif" width="100%" />
-</div>
-
 ## 🌟 About Me
 
 ```typescript
@@ -57,8 +49,6 @@ const codeForFee = {
 
 ### 🛠️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </td>
@@ -67,42 +57,6 @@ const codeForFee = {
 
 ---
 
-## 🏆 Featured Masterpieces
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 [E-Commerce Platform Pro](https://github.com/CodeForFee/ecommerce-platform)
-**Next.js • Stripe • MongoDB**
-- 💰 Full-featured e-commerce with payment integration
-- 📱 Responsive design with 98% performance score
-- 🔐 JWT authentication & role-based access
-- 📊 Admin dashboard with analytics
-
-![Stars](https://img.shields.io/github/stars/CodeForFee/ecommerce-platform?style=social)
-![Forks](https://img.shields.io/github/forks/CodeForFee/ecommerce-platform?style=social)
-
-</td>
-<td width="50%">
-
-### ⚡ [Real-Time Chat App](https://github.com/CodeForFee/realtime-chat)
-**React • Socket.io • NestJS**
-- 💬 Real-time messaging with typing indicators
-- 🎨 Modern UI with dark/light theme
-- 🔔 Push notifications
-- 👥 Group chat functionality
-
-![Stars](https://img.shields.io/github/stars/CodeForFee/realtime-chat?style=social)
-![Forks](https://img.shields.io/github/forks/CodeForFee/realtime-chat?style=social)
-
-</td>
-</tr>
-</table>
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -133,12 +87,6 @@ const codeForFee = {
 
 <table align="center">
 <tr>
-<td align="center">🏅 <strong>Full Stack Certified</strong></td>
-<td align="center">⭐ <strong>50+ Projects Delivered</strong></td>
-<td align="center">🔥 <strong>365 Days Coding Streak</strong></td>
-</tr>
-<tr>
-<td align="center">💎 <strong>Top 5% Developer</strong></td>
 <td align="center">🚀 <strong>Performance Optimizer</strong></td>
 <td align="center">🎯 <strong>Problem Solver</strong></td>
 </tr>
@@ -158,27 +106,7 @@ const currentGoals = {
 };
 ```
 
----
-
-## 🌐 Let's Connect & Collaborate
-
-<div align="center">
-<a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://your-portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://twitter.com/your-handle">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-</div>
-
 ### 💼 Open for Opportunities
-- 🚀 **Freelance Projects** - Full-stack web applications
 - 🤝 **Collaborations** - Open source contributions
 - 💡 **Consulting** - Architecture & performance optimization
 - 🎯 **Remote Work** - Full-time positions
