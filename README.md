@@ -1,7 +1,7 @@
 # 🎯 CodeForFee | Fullstack Architect
 
 <div align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=🚀+Fullstack+Web+Developer;⚡+MERN+Stack+Expert;🎨+Next.js+%26+NestJS+Specialist;🔥+Building+Scalable+Solutions;💡+Let's+Create+Something+Amazing!](https://media.tenor.com/W_I2beMZiVsAAAAM/bongo-cat-typing.gif)" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=🚀+Fullstack+Web+Developer;⚡+MERN+Stack+Expert;🎨+Next.js+%26+NestJS+Specialist;🔥+Building+Scalable+Solutions;💡+Let's+Create+Something+Amazing!](https://media.tenor.com/W_I2beMZiVsAAAAM/bongo-cat-typing.gif)](https://media.tenor.com/W_I2beMZiVsAAAAM/bongo-cat-typing.gif" alt="Typing Animation" />
 </div>
 
 <div align="center">
