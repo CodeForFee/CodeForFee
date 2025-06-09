@@ -9,8 +9,8 @@ const codeForFee = {
   technologies: {
     frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
     backend: ["Node.js", "Express", "NestJS", "RESTful APIs"],
-    database: ["MongoDB", "MySQL", "PostgreSQL"],
-    tools: ["Git", "Docker", "AWS", "Vercel"]
+    database: ["MongoDB", "MySQL"],
+    tools: ["Git", "GitLab", "Vercel", "Render", "Railway"]
   },
   currentFocus: "Building scalable web applications",
   philosophy: "Clean code, optimal performance, seamless UX"
@@ -18,7 +18,7 @@ const codeForFee = {
 ```
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nest,mongodb,mysql,postgresql,tailwind,git,github,docker,aws,vscode&perline=8" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nest,mongodb,mysql,sqlserver,tailwind,git,github,gitlab,vscode&perline=8" alt="Skills" />
 </div>
 
 ---
