@@ -113,43 +113,34 @@ const codeForFee = {
 
 ---
 
-## 📈 **VISITOR ANALYTICS**
-
+📈 VISITOR ANALYTICS
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CodeForFee&style=for-the-badge&color=00D9FF&labelColor=0D1117" />
   <img src="https://img.shields.io/github/followers/CodeForFee?style=for-the-badge&color=00D9FF&labelColor=0D1117" />
   <img src="https://img.shields.io/github/stars/CodeForFee?style=for-the-badge&color=00D9FF&labelColor=0D1117" />
 </div>
 
----
-
-## 🐍 **CONTRIBUTION SNAKE**
-
+🐍 CONTRIBUTION SNAKE
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
----
-
-## 💎 **CODING STATS**
-
+💎 CODING ACTIVITY
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CodeForFee&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+📅 This Week I Spent My Time On:
+textTypeScript   ████████████████████░   80.0%
+JavaScript   ███████░░░░░░░░░░░░░░░   35.0% 
+React        ██████████░░░░░░░░░░░   50.0%
+Node.js      ████████░░░░░░░░░░░░░   40.0%
+CSS/SCSS     ████░░░░░░░░░░░░░░░░░   20.0%
 </div>
 
----
-
 <div align="center">
-  
-### 🎨 **"Code is Poetry, Logic is Art"** 🎨
-
+🎨 "Code is Poetry, Logic is Art" 🎨
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
-
-**⭐ Star my repositories if you find them interesting!**  
-**🔥 Let's build something amazing together!** 
-
+⭐ Star my repositories if you find them interesting!
+🔥 Let's build something amazing together!
 </div>
-
 ---
 
 <div align="center">
