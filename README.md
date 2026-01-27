@@ -10,7 +10,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeForFee&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=CodeForFee&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeForFee&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
