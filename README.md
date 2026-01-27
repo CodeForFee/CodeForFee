@@ -3,7 +3,7 @@
 #2bbc8a;">CodeForFee</span></h1>
 <h3 align="center">💻 Fullstack Web Developer | MERN • Next.js • NestJS 🚀</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nest,mongodb,mysql,html,css,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nest,mongodb,mysql,html,css,git,github,vscode,bun" alt="Tech Stack" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=2BBC8A&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;MERN+Stack+Specialist;Next.js+%7C+NestJS+Enthusiast;Building+Scalable+Apps;Let%E2%80%99s+Code+Something+Amazing+in+2025!" alt="Typing SVG" />
