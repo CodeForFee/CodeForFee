@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=2BBC8A&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;MERN+Stack+Specialist;Next.js+%7C+NestJS+Enthusiast;Building+Scalable+Apps;Let%E2%80%99s+Code+Something+Amazing+in+2025!" alt="Typing SVG" />
 </p>
-## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeForFee&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=CodeForFee&theme=radical&hide_border=true" alt="GitHub Streak" />
