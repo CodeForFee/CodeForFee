@@ -11,8 +11,13 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeForFee&theme=tokyonight&fire=2bbc8a&ring=2bbc8a&sideNums=2bbc8a&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://metrics.lecoq.io/CodeForFee?base=languages&base.languages.units=percent&base.languages.ignored=html,css,scss&theme=dark&config.timezone=Asia/Ho_Chi_Minh" alt="Top Languages" />
+</p>
+
+<h3 align="center">🛠️ Most Used Technologies</h3>
+<p align="center">
+  <a href="https://github.com/CodeForFee">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nest,mongodb,mysql&perline=4" alt="Top Languages Static" />
+  </a>
 </p>
 
 <div align="center">
