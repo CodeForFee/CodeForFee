@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeForFee&show_icons=true&theme=dark&title_color=2bbc8a&icon_color=2bbc8a&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeForFee&theme=tokyonight&fire=2bbc8a&ring=2bbc8a&sideNums=2bbc8a&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeForFee&layout=compact&theme=dark&title_color=2bbc8a&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeForFee&layout=compact&theme=dark&title_color=2bbc8a&icon_color=2bbc8a&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
 </p>
 
 <div align="center">
